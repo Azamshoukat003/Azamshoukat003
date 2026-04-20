@@ -22,7 +22,7 @@
 
 ## About Me
 
-```typescript
+​```typescript
 const azam: SoftwareEngineer = {
   name       : "Muhammad Azam Shoukat",
   role       : "Software Engineer",
@@ -32,7 +32,7 @@ const azam: SoftwareEngineer = {
   philosophy : "Write code machines execute & humans understand",
   openTo     : ["Collaborations", "Open Source", "Exciting Projects"],
 };
-```
+​```
 
 <img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -144,17 +144,17 @@ Results-driven **Software Engineer** who builds reliable, performant, and mainta
 
 ## Engineering Principles
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                   Engineering Philosophy                    │
-├─────────────────────────────────────────────────────────────┤
-│  Make it work → Make it right → Make it fast               │
-│  Readable code > Clever code                               │
-│  Ship early, iterate often, never stop learning            │
-│  Every bug is feedback. Every PR is a conversation         │
-│  Documentation is not optional — it's engineering         │
-└─────────────────────────────────────────────────────────────┘
-```
+​```
+┌──────────────────────────────────────────────────────────────┐
+│                    Engineering Philosophy                    │
+├──────────────────────────────────────────────────────────────┤
+│  Make it work → Make it right → Make it fast                │
+│  Readable code > Clever code                                │
+│  Ship early, iterate often, never stop learning             │
+│  Every bug is feedback. Every PR is a conversation          │
+│  Documentation is not optional — it's engineering          │
+└──────────────────────────────────────────────────────────────┘
+​```
 
 ---
 
@@ -163,6 +163,8 @@ Results-driven **Software Engineer** who builds reliable, performant, and mainta
 <div align="center">
 
 Open to new opportunities, collaborations, and engineering challenges.
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0d1117?style=flat-square&labelColor=161b22&logo=safari&logoColor=58a6ff)](https://azamshoukat.dev)
 &nbsp;
